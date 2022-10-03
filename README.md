@@ -2,7 +2,7 @@
 
 # Education
 
-I am currently an incoming student at UCL, studying for a MEng in Computer Science. 
+Undergraduate student at UCL, studying for MEng in Computer Science. 
 
 I'm proficient in Python, and I've previously worked as an intern in the area of natural language processing, using BERT to classify products.
 
@@ -24,7 +24,7 @@ I have a keen interest in learning new programming languages and frameworks, and
 - Django
 - FastAPI
 - GCP, Firebase
-## Tool
+## Tools
 - Docker
 - PyCharm
 - Git
