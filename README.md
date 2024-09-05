@@ -2,7 +2,7 @@
 
 # Education
 
-Undergraduate student at UCL, studying for MEng in Computer Science. 
+Undergraduate student at UCL, studying for BSc in Computer Science. 
 
 I'm proficient in Python, and I've previously worked as an intern in the area of natural language processing, using BERT to classify products.
 
