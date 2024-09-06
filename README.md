@@ -1,30 +1,48 @@
-# Hi 👋 My name is Baicheng!
+# Hi there! 👋 I'm Baicheng (Michael) Yin
 
-**Email**: [y@yinbaicheng.com](mailto:y@yinbaicheng.com)  
-[LinkedIn](https://linkedin.com/in/baicheng-yin)
-
----
-
-## Skills
-
-**Programming Languages**: Python, Java, C, Javascript, Typescript, HTML/CSS, SQL, Haskell
-
-**Frameworks and Libraries**: PyTorch, OpenCV, Pandas, NumPy, Flask, Vue.JS, React, Node.js, Tailwind, Stripe
-
-**Tools & Technologies**: Git, Github, RESTful API, Docker, Firebase, GCP, Redis, LATEX
+I'm a computer science student with a passion for AI, full-stack development, and creating impactful tech solutions. I enjoy solving complex problems, contributing to open-source projects, and continuously learning about the latest technologies. I'm always eager to connect and collaborate on exciting new projects!
 
 ---
 
-## Education
+## 🛠️ Skills
 
-**University College London** – London, UK  
-**BSc Computer Science**. Grade: 2:1.  
-*Sep 2022 - Jun 2025*  
-Modules include: Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Logic, Mathematics, and Statistics.
+- **Programming Languages**: Python, Java, C, Javascript, Typescript, HTML/CSS, SQL, Haskell
+- **Frameworks and Libraries**: PyTorch, OpenCV, Pandas, NumPy, Flask, Vue.JS, React, Node.js, Tailwind, Stripe
+- **Tools & Technologies**: Git, GitHub, RESTful API, Docker, Firebase, GCP, Redis, LATEX
 
 ---
 
-## Experience
+## 🌱 What's Next
+
+- Enhancing my expertise in Large Language Models and their real-world applications.
+- Exploring cloud infrastructure with AWS and Google Cloud.
+
+---
+
+## 🚀 Projects
+
+### Full-stack Mental Health Webapp (Calmify.ai)  
+![Status](https://img.shields.io/badge/Status-Active-green)  
+![Tech](https://img.shields.io/badge/Tech-Firebase-orange)
+
+- Spearheaded the development of Calmify.ai, an AI-powered chatbot utilizing LLM, aimed to provide affordable and accessible mental health support.
+- Leveraged Firestore as the primary database, enhancing data management for smooth user-bot interaction and real-time response optimization.
+- Orchestrated robust and scalable back-end operations using Firebase Cloud Functions, delivering a high-performance, resilient architecture.
+  
+[Live Demo](https://www.calmify.ai)
+
+### Eye Gaze Tracking System (UCL MotionInput)  
+![Tech](https://img.shields.io/badge/Tech-OpenCV-blue)
+
+- Engineered an advanced eye gaze tracking system using Python, OpenCV, MediaPipe, and PySide6, implementing projective transformation for accurate gaze estimation.
+- Developed a 9-point calibration process and a quantitative accuracy evaluation matrix using mathematical modeling and computer vision techniques.
+- Led client demonstrations, showcasing the system’s capabilities and collaborating with the team to deliver a high-quality solution.
+
+[Live Demo](https://www.motioninputgames.com/)
+
+---
+
+## 💼 Experience
 
 ### Samsara, Inc. – London, UK  
 **Software Engineer Intern**  
@@ -44,16 +62,17 @@ Modules include: Object-Oriented Programming, Software Engineering, Data Structu
 
 ---
 
-## Projects
+## 🎓 Education
 
-### Full-stack Mental Health Webapp (Calmify.ai)
+### University College London – London, UK  
+**BSc Computer Science**. Grade: 2:1.  
+*Sep 2022 - Jun 2025*  
+Modules include: Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Logic, Mathematics, and Statistics.
 
-- Spearheaded the development of Calmify.ai, an AI-powered chatbot utilizing LLM, aimed to provide affordable and accessible mental health support.
-- Leveraged Firestore as the primary database, enhancing data management for smooth user-bot interaction and real-time response optimization.
-- Orchestrated robust and scalable back-end operations using Firebase Cloud Functions, delivering a high-performance, resilient architecture.
+---
 
-### Eye Gaze Tracking System (UCL MotionInput)
+## 📫 How to reach me
 
-- Engineered an advanced eye gaze tracking system using Python, OpenCV, MediaPipe, and PySide6, implementing projective transformation for accurate gaze estimation.
-- Developed a 9-point calibration process and a quantitative accuracy evaluation matrix using mathematical modeling and computer vision techniques.
-- Led client demonstrations, showcasing the system’s capabilities and collaborating with the team to deliver a high-quality solution.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/baicheng-yin)](https://linkedin.com/in/baicheng-yin)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Baicheng-MiQ)](https://github.com/Baicheng-MiQ)
+![Visitor Count](https://komarev.com/ghpvc/?username=Baicheng-MiQ&style=flat-square)
