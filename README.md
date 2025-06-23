@@ -1,7 +1,4 @@
 # Hi there! 👋 I'm Baicheng (Michael) Yin
-
-I'm a computer science student with a passion for AI, full-stack development, and creating impactful tech solutions. I enjoy solving complex problems, contributing to open-source projects, and continuously learning about the latest technologies. I'm always eager to connect and collaborate on exciting new projects!
-
 ---
 
 ## 🛠️ Skills
@@ -43,6 +40,10 @@ I'm a computer science student with a passion for AI, full-stack development, an
 ---
 
 ## 💼 Experience
+
+### Samsara, Inc. – London, UK  
+**Software Engineer I**  
+*June 2025 - *
 
 ### Samsara, Inc. – London, UK  
 **Software Engineer Intern**  
